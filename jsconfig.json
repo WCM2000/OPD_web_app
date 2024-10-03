@@ -1,0 +1,18 @@
+// {
+//   "compilerOptions": {
+//     "jsx": "react-jsx",
+//     // "jsx": "preserve",
+//     "baseUrl": ".",
+//     "paths": {
+//       "@/*": ["./src/*"]
+//     }
+//   }
+// }
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
